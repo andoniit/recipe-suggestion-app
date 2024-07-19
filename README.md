@@ -1,5 +1,6 @@
 
 # Recipe Suggestion App
+<img width="1680" alt="Screenshot 2024-07-19 at 10 39 17 AM" src="https://github.com/user-attachments/assets/7a7e7b19-3585-462a-8ff7-6487e1145999">
 
 This is a recipe suggestion app that allows users to input ingredients and receive recipe suggestions. The app features a React frontend and a backend server running on Express.js that interacts with the OpenAI API to fetch recipe suggestions.
 
@@ -39,6 +40,8 @@ This is a recipe suggestion app that allows users to input ingredients and recei
    ```env
    OPENAI_API_KEY=your_openai_api_key
    ```
+   <img width="738" alt="Screenshot 2024-07-19 at 10 55 04 AM" src="https://github.com/user-attachments/assets/a8586ccf-7c58-4765-ba13-c5571de61301">
+
 
 ## Running the App
 
